@@ -9,14 +9,14 @@
 도로는 기능과 목적에 따라 다음과 같이 구분한다.
 
 1. 국도
-  가. 국가의 주요 지역을 연결하는 광역 도로
+    가. 국가의 주요 지역을 연결하는 광역 도로
 
 2. 고속국도
-  가. 도시 간을 연결하는 고속 운행 도로
+    가. 도시 간을 연결하는 고속 운행 도로
 
 3. 생활도로
-  가. 주거 지역을 연결하는 소규모 도로
-  나. 시설물을 연결하는 저속 운행 도로
+    가. 주거 지역을 연결하는 소규모 도로
+    나. 시설물을 연결하는 저속 운행 도로
 
 # 제3장 도로 건설 재료 및 시설 기준
 ## 제3조(도로 포장 재료)
@@ -90,7 +90,7 @@
     <details><summary>가. 보도는 다음 블록을 사용하는 것을 원칙으로 한다.</summary>
 
     <img src="/assets/img/building/road/way.png" width="256px"><br/>
-    <img src="/assets/img/building/road/stone_way.png" width="256px">
+    <img src="/assets/img/building/road/stone_way.png" width="256px"><br/>
     <img src="/assets/img/building/road/dirt_way.png" width="256px">
 
     </details>
@@ -98,7 +98,7 @@
     | 용도 | 블록 |
     |:---|:---:|
     | 인도 | <img src="/assets/img/building/road/polished_diorite.png" width="64px"> |
-    | 석재 도로 | <img src="/assets/img/building/road/polished_diorite.png" width="64px" style="vertical-align: middle"> + <img src="/assets/img/building/road/polished_andesite.png" width="64px" style="vertical-align: middle"> + <img src="/assets/img/building/road/stone_bricks.png" width="64px" style="vertical-align: middle"> + <img src="/assets/img/building/road/cobblestone.png" width="64px" style="vertical-align: middle">|
+    | 석재 도로 | <img src="/assets/img/building/road/polished_diorite.png" width="64px" style="vertical-align: middle"> + <img src="/assets/img/building/road/polished_andesite.png" width="64px" style="vertical-align: middle"> + <img src="/assets/img/building/road/stone_bricks.png" width="64px" style="vertical-align: middle"> + <img src="/assets/img/building/road/cobblestone.png" width="64px" style="vertical-align: middle"> |
     | 흙 길 | <img src="/assets/img/building/road/dirt_path.png" width="64px"> |
 
 # 제4장 도로의 설계
@@ -118,7 +118,7 @@
 이에 맞는 암석으로는 `매끄러운 돌`(<img src="/assets/img/building/road/smooth_stone.png" width="24px" style="vertical-align: middle">)이 있다.
 
 1. 도로가 닿는 모든 부분에 매끄러운 돌을 설치한다.
-2. 차도가 노출되는 부분은 경계석(<img src="/assets/img/building/road/smooth_stone_slab.png" width="24px" style="vertical-align: middle">)으로 마감한다.
+2. 차도가 노출되는 부분은 `경계석`(<img src="/assets/img/building/road/smooth_stone_slab.png" width="24px" style="vertical-align: middle">)으로 마감한다.
 
 ## 제7조(중앙분리대 설치 기준)
 
@@ -130,4 +130,4 @@
 ## 제8조(정지선 폭의 기준)
 
 정지선은 왕복 2차선 이상의 도로에 설치한다.  
-횡단보도와 2칸 떨어진 위치에 경계석(<img src="/assets/img/building/road/smooth_stone_slab.png" width="24px" style="vertical-align: middle">)까지 정지선을 설치한다.
+횡단보도와 2칸 떨어진 위치에 `경계석`(<img src="/assets/img/building/road/smooth_stone_slab.png" width="24px" style="vertical-align: middle">)까지 정지선을 설치한다.

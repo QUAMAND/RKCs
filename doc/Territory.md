@@ -1,13 +1,15 @@
 # 영토
 **R.K.C**의 영토는 정부가 관할하는 모든 지리적 범위를 의미하며, 실질적 기반이 된다.
 
+- 영토의 거래와 관련한 법률에 대해서는 [토지법](/doc/law/Land.md)을 참고하십시오.
+
 ## 범위
 **R.K.C**의 영토는 월드보더(worldborder)에 의해 그 최대가 물리적으로 제한되며, 영토의 중심(8, 5, 0)을 기준으로 `x, z` `-3000 ~ 3001`이며, `y`로는 `-64 ~ 319`까지이다.
 
 <details><summary>실제 인게임 영토</summary>
 
 - overworld
-부동산에서 토지를 구매하여 이용할 수 있는 서버 주요 차원이다.
+  부동산에서 토지를 구매하여 이용할 수 있는 서버 주요 차원이다.
 
   <div>
     <img src="/assets/img/map/overworld.png" width="512px">
@@ -17,7 +19,7 @@
 <br/>
 
 - practice
-법률이 적용되지 않는 실험 차원이다.
+  법률이 적용되지 않는 실험 차원이다.
 
   <div>
     <img src="/assets/img/map/practice.png" width="512px">
