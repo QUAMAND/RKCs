@@ -1,4 +1,17 @@
 # RKCs
+<div style="
+  background-color: rgba(46, 160, 67, 0.12);
+  border: 1px solid rgba(87, 190, 105, 0.65);
+  border-radius: 6px;
+  padding: 10px 14px;
+  color: #46a85b;
+  font-weight: 600;
+">
+  관리 및 기록 시스템
+</div>
+
+<br/>
+
 [**RKCs**](#rkcs)는 [**R.K.C**](#rkc)의 현재 상태와 세계관을 관리 및 기록하기 위한 프로젝트입니다.
 
 국가의 행정, 영토, 법률, 인구, 경제 / 인게임의 데이터 팩, 리소스 팩 등 다양한 정보를 체계적으로 관리하며, **R.K.C** 세계관 확장을 지원합니다.
@@ -15,9 +28,9 @@
 <img src="/assets/img/badge.png" width="128px">
 
 ### 정보
-- 국가: *Fulgor adamantis*(광휘의 금강석)
+- 국가(歌): *Fulgor adamantis*(광휘의 금강석)
 - 국화: *Oxeye daisy*(데이지)
-- 국조: *Ender dragon*(엔더 드래곤)
+- 국조(鳥): *Ender dragon*(엔더 드래곤)
 - 언어: 한국어
 - 통화: *δ*(델타)
 - ccTLD: `.rkc`
